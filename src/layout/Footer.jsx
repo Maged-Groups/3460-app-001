@@ -10,7 +10,7 @@ export default function Footer() {
     return (
         <footer className={styles.footer}>
             <p className={styles.title}>
-                All rights reserved {thisYear} - {app_title}
+                All rights reserved {thisYear} - {app_title} || Maged Yaseen
             </p>
         </footer>
     )
